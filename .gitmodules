@@ -1,0 +1,3 @@
+[submodule "BurpJSLinkFinder"]
+	path = BurpJSLinkFinder
+	url = https://github.com/InitRoot/BurpJSLinkFinder.git
