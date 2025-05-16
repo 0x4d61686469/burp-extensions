@@ -1,3 +1,6 @@
 [submodule "BurpJSLinkFinder"]
 	path = BurpJSLinkFinder
 	url = https://github.com/InitRoot/BurpJSLinkFinder.git
+[submodule "JSpector"]
+	path = JSpector
+	url = https://github.com/hisxo/JSpector
