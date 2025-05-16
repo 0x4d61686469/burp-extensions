@@ -4,3 +4,6 @@
 [submodule "JSpector"]
 	path = JSpector
 	url = https://github.com/hisxo/JSpector
+[submodule "reflector"]
+	path = reflector
+	url = https://github.com/elkokc/reflector
